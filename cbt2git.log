@@ -1,0 +1,9 @@
+2025-04-04 06:10:55.509346 - Received CBT.V508.FILE215.PDS from FILE215.XMI 
+2025-04-04 06:10:55.510099 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE215.PDS, moved to PDS/$$$#DATE
+2025-04-04 06:10:55.510242 - Found $$$DOC.txt (text/plain) in CBT.V508.FILE215.PDS, moved to PDS/$$$DOC
+2025-04-04 06:10:55.510420 - Found #ARTEXMP.txt (text/plain) in CBT.V508.FILE215.PDS, moved to PDS/#ARTEXMP
+2025-04-04 06:10:55.510562 - Found #ARTPTF.txt (text/plain) in CBT.V508.FILE215.PDS, moved to PDS/#ARTPTF
+2025-04-04 06:10:55.510739 - Found #ARTSMPC.txt (text/plain) in CBT.V508.FILE215.PDS, moved to PDS/#ARTSMPC
+2025-04-04 06:10:55.510896 - Found @FILE215.txt (text/plain) in CBT.V508.FILE215.PDS, moved to PDS/@FILE215
+2025-04-04 06:10:55.511031 - Found PTF.txt (text/plain) in CBT.V508.FILE215.PDS, moved to PDS/PTF
+2025-04-04 06:10:55.511149 - Found SMPCLIST.txt (text/plain) in CBT.V508.FILE215.PDS, moved to PDS/SMPCLIST
